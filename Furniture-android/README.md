@@ -1,4 +1,4 @@
-# Build a 'try and buy' application with AR capabilities for a furniture store
+# An Application with AR capabilities for a furniture store
 
 Augmented Reality suits the furniture/interior business perfectly. It is also a fine tool for personalization of customer needs, especially when it comes to furniture/interior. Shoppers really want the ability to see how the items will look at their homes or offices. People want to see virtual interior design ideas in real time, and AR provides them with such ability.
 
@@ -19,7 +19,7 @@ In this code pattern, we will develop an android mobile application on `IBM Mobi
 5. Users can now view how the furniture would look in their space.
 
 ## Demo
-[![](https://img.youtube.com/vi/2qtWBiS-SD0/0.jpg)](https://youtu.be/2qtWBiS-SD0)
+[VIDEO](https://youtu.be/2qtWBiS-SD0)
 
 ## Pre-requisites
 
